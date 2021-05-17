@@ -12,5 +12,6 @@ WORK新人小白购买流程
 第四步，在币安交易所或者抹茶交易所法币交易点开，购买BNB，或者USDT，充值到BSC钱包里面（选择BSC那个链）
 第五步，在TP钱包发现里面，找到薄饼点开，复制合约进去0xE552B846079eef72806DC22F32a1Fc5A057D023A?
 购买WORK.
+Pancake购买WORK链接：https://exchange.pancakeswap.finance/#/swap?inputCurrency=&outputCurrency=0xE552B846079eef72806DC22F32a1Fc5A057D023A
 币安交易所链接:?https://www.binancezh.io/zh-CN/register
 抹茶交易所链接：https://www.mxcio.co/auth/signup
