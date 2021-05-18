@@ -85,19 +85,19 @@ ul {
 }
 
 .top-right-info li span.fa-facebook-f {
-    background: #3b5998;
+    background: #ffffff;
 }
 
 .top-right-info li span.fa-twitter {
-    background: #1da1f2;
+    background: #ffffff;
 }
 
 .top-right-info li span.fa-google-plus {
-    background: #F44336;
+    background: #ffffff;
 }
 
 .top-right-info li span.fa-dribbble {
-    background: #ea4c89;
+    background: #ffffff;
 }
 
 .top-right-info li span:hover,
@@ -140,6 +140,12 @@ a.login-button-2 {
 
 .top-right-info li p {
     color: #fff;
+}
+.top-right-info li a {
+    color: #fff;
+}
+.top-right-info li a:hover{
+    color: #808080;
 }
 
 /* //top bar */
